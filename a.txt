@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaa
 aaaaaa
+=======
+aaaa
+>>>>>>> aaaaaa1
